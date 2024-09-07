@@ -1,2 +1,2 @@
-# Repositorio_Dictonary
+# Repositorio_Dictionary
 Estudando sobre dicionários
