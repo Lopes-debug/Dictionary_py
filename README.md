@@ -1,2 +1,2 @@
 # Repositorio_Dictionary
-Estudando sobre dicionários
+Learning about dicts in Python.
